@@ -1,4 +1,4 @@
 # React_Css_Practice
-Created with CodeSandbox
+Created with CodeSandbox.
 
-Practicing of Css using React
+Practicing of CSS using React.
